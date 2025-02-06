@@ -1,3 +1,9 @@
+/**
+ * Classe que representa um veículo.
+ * @version 1.0
+ * @author Alessandro
+ */
+
 public class Veiculo {
 
     private String marca;
